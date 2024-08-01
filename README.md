@@ -1,4 +1,5 @@
 # Energy Insights for the UK in 2017
+![Screenshot 2024-08-01 135905](https://github.com/user-attachments/assets/a584c271-54fa-4b27-b289-3c3786179f93)
 ### Introduction:
 In this project, I analysed energy data from the UK for the year 2017. The goal was to extract meaningful insights and answer critical business questions that could inform stakeholders and guide strategic decisions. Using Power BI, I created a series of visualisations to illustrate key trends and comparisons in energy production, consumption, and demand. Below, I outline the business questions addressed and the insights gained from them.
 
