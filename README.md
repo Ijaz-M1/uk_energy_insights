@@ -121,7 +121,7 @@ Data Granularity:
 1) As renewable energy sources are weather-dependent, balancing supply and demand becomes more complex.
 
 2) Investment in energy storage and smart grid technologies is crucial to address these challenges.
-### Future Steps:
+### Future Steps
 #### Continuous Monitoring and Adjustment:
 1) Regularly update and refine energy models based on the latest data and trends.
 
